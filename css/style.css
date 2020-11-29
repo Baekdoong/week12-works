@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=East+Sea+Dokdo&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR&display=swap');
+
+
+.img {
+    width:100%;
+    height:100%;
+    position:absolute;}
+
+
+.title {font-size: 150pt;
+    color: white;
+    position: absolute;
+    left: 49%;
+    top: 15%;
+    transform: translate(-50%, -50%);
+    margin: 0; 
+    letter-spacing: 30px;
+    font-family: 'East Sea Dokdo', cursive;
+}
+ 
+
+
+ .title1 {font-size: 150pt;
+    color: white;
+    position: absolute;
+    left: 50%;
+    top: 32%;
+    transform: translate(-50%, -50%);
+    margin: 0; 
+    letter-spacing: 30px;
+    font-family: 'East Sea Dokdo', cursive;
+}
+ 
+
+.title2 {font-size: 10pt;
+    color: white;
+    position: absolute;
+    left: 50%;
+    top: 95%;
+    transform: translate(-50%, -50%);
+    margin: 0; 
+    letter-spacing: 10px;
+    font-family: 'Noto Sans KR', sans-serif;
+}
+ 
